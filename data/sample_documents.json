@@ -1,0 +1,42 @@
+[
+  {
+    "id": "doc-001",
+    "title": "Deploying FastAPI on Azure Container Apps",
+    "category": "cloud",
+    "tags": ["azure", "fastapi", "containers"],
+    "content": "Azure Container Apps allows you to deploy FastAPI services with autoscaling, revision management and simplified ingress configuration for cloud-native APIs.",
+    "source": "internal-blog"
+  },
+  {
+    "id": "doc-002",
+    "title": "Semantic Search Basics for Technical Knowledge Bases",
+    "category": "search",
+    "tags": ["search", "semantic", "ranking"],
+    "content": "Semantic search improves relevance by prioritizing user intent, document meaning and high-value fields such as title, keywords and main body content.",
+    "source": "knowledge-base"
+  },
+  {
+    "id": "doc-003",
+    "title": "Indexing Product Manuals with AI Enrichment",
+    "category": "search",
+    "tags": ["azure", "indexing", "documents"],
+    "content": "Document indexing pipelines can enrich manuals with extracted entities, detected language, chunked content and searchable metadata before publishing to a search index.",
+    "source": "playbook"
+  },
+  {
+    "id": "doc-004",
+    "title": "Building Fraud Review Workflows with Search Filters",
+    "category": "security",
+    "tags": ["fraud", "filters", "review"],
+    "content": "Fraud operations teams often need faceted navigation, strict filters and highlighted snippets to triage suspicious documents quickly.",
+    "source": "ops-guide"
+  },
+  {
+    "id": "doc-005",
+    "title": "Using Tags and Categories to Improve Search Recall",
+    "category": "search",
+    "tags": ["taxonomy", "tags", "metadata"],
+    "content": "Well-curated tags and categories help search engines match domain vocabulary and improve recall for technical content discovery.",
+    "source": "internal-blog"
+  }
+]
