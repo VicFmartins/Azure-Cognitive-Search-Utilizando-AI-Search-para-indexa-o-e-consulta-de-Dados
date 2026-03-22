@@ -1,7 +1,5 @@
 # Azure AI Search para Indexacao e Consulta de Dados
 
-Este repositorio deixou de ser apenas um relato curto do portal e virou um MVP executavel de indexacao e consulta. A solucao agora oferece uma API local inspirada em Azure AI Search, com indexacao de documentos, consulta por relevancia, filtros por categoria e tags, highlights e payloads prontos para migrar a estrutura para o servico gerenciado da Microsoft.
-
 ## O que o projeto entrega
 
 - API REST para indexacao e busca
