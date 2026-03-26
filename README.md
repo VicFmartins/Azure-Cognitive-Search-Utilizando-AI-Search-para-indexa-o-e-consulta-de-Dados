@@ -68,7 +68,7 @@ docker run -p 8000:8000 azure-ai-search-demo
 
 ## Exemplo de consulta
 
-Use o payload em [sample-search-request.json](C:/Users/vitor/OneDrive/Documentos/Playground/repo-azure-ai-search/examples/sample-search-request.json):
+Use o payload em [sample-search-request.json](examples/sample-search-request.json):
 
 ```json
 {
